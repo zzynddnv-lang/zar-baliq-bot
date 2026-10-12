@@ -1,8 +1,7 @@
 import telebot
 from telebot import types
 
-# ⚠️ DIQQAT: BotFather bergan TOKEN'ni shu yerga yozing:
-BOT_TOKEN = "SIZNING_BOT_TOKENINGIZ"
+BOT_TOKEN = "8965802700:AAHkyL8frV06Of_Z2S6CKhmjGYqTPO0Fy5U"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
